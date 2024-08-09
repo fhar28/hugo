@@ -1,3 +1,4 @@
+[![Test](https://github.com/gohugoio/hugo/actions/workflows/test.yml/badge.svg)](https://github.com/gohugoio/hugo/actions/workflows/test.yml)
 on:
   push:
     branches: [master]
